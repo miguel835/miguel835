@@ -1,13 +1,5 @@
 ## Hi there! I'm Miguel Díaz Z. 👋
 
-If you are learning C# then feel free to browse through the repositories I have for those starting out in C# programming.\
-Here are some repositories that can help you learn C#:\
-[FundaProgrCsharp](https://github.com/miguel835/FundaProgrCsharp)\
-[EjerciciosFundaProgrCsharp](https://github.com/miguel835/EjerciciosFundaProgrCsharp)\
-[Poocsharp](https://github.com/miguel835/POOcsharp)\
-[EjerciciosPOO](https://github.com/miguel835/EjerciciosPOO)\
-[WindowsFormsEjercicios](https://github.com/miguel835/WindowsFormsEjercicios)\
-[Csharp-avanzado](https://github.com/miguel835/Csharp-avanzado)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -35,6 +27,15 @@ Here are some repositories that can help you learn C#:\
     <img src="https://skillicons.dev/icons?i=git,ubuntu,github,latex,linux,visualstudio,vscode,arch" />
   </a>
 </p>
+
+If you are learning C# then feel free to browse through the repositories I have for those starting out in C# programming.\
+Here are some repositories that can help you learn C#:\
+[FundaProgrCsharp](https://github.com/miguel835/FundaProgrCsharp)\
+[EjerciciosFundaProgrCsharp](https://github.com/miguel835/EjerciciosFundaProgrCsharp)\
+[Poocsharp](https://github.com/miguel835/POOcsharp)\
+[EjerciciosPOO](https://github.com/miguel835/EjerciciosPOO)\
+[WindowsFormsEjercicios](https://github.com/miguel835/WindowsFormsEjercicios)\
+[Csharp-avanzado](https://github.com/miguel835/Csharp-avanzado)
 
 
 <!--
