@@ -27,7 +27,7 @@
     <img src="https://skillicons.dev/icons?i=git,ubuntu,github,latex,linux,visualstudio,vscode,arch" />
   </a>
 </p>
-
+<!--
 If you are learning C# then feel free to browse through the repositories I have for those starting out in C# programming.\
 Here are some repositories that can help you learn C#:\
 [FundaProgrCsharp](https://github.com/miguel835/FundaProgrCsharp)\
@@ -36,7 +36,7 @@ Here are some repositories that can help you learn C#:\
 [EjerciciosPOO](https://github.com/miguel835/EjerciciosPOO)\
 [WindowsFormsEjercicios](https://github.com/miguel835/WindowsFormsEjercicios)\
 [Csharp-avanzado](https://github.com/miguel835/Csharp-avanzado)
-
+-->
 
 <!--
 **miguel835/miguel835** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
