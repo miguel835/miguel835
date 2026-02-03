@@ -10,7 +10,7 @@
 ### 🛠 &nbsp;Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,bootstrap" />
   </a>
 </p>
 
